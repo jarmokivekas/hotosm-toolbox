@@ -50,5 +50,15 @@
  An overview of online interactive map tools for visualizing data Step-by-step instructions for creating interactive maps with two tools: uMap and Overpass Turbo  Overview Interactive maps are viewed as the modern equivalent of visual communication with maps. This involves the creation and study of the visual representation of data (maps). To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics and other tools.</description>
     </item>
     
+    <item>
+      <title>7.4 QGIS Workflows for Disaster Mapping</title>
+      <link>/pages/data-use-and-analysis/7.4-qgis-workflows-for-disaster-mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/data-use-and-analysis/7.4-qgis-workflows-for-disaster-mapping/</guid>
+      <description>In this section covers practical data processing and analysis methods for activation size-up, planning projects, and managing ongoing projects. While these workflows are described using recent versions of QGIS, they are are typically general enough to perform in any modern GIS application (Python, R, Grass, ArcGIS etc.). This section assumes you familiar with the basic use of (HOT Export Tool](https://export.hotosm.org), (Overpass turbo)[https://overpass-turbo.eu/], and (QGIS)[https://qgis.org].
+Useful QGIS plugins Installing the QuickMapServices ,Quick OSM, and OSMDownloader will make handling OSM data in QGIS more convenient.</description>
+    </item>
+    
   </channel>
 </rss>

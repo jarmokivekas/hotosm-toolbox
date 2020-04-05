@@ -139,7 +139,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-12-02T16:02:56-05:00</lastmod>
+    <lastmod>2020-04-05T10:29:59+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -604,6 +604,11 @@
   </url>
   
   <url>
+    <loc>/pages/data-export/6.3-export-aoi-and-feature-selction/</loc>
+    <lastmod>2020-04-05T10:29:59+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/pages/data-use-and-analysis/7.0_data-use-and-analysis/</loc>
     <lastmod>2019-12-01T19:21:41-07:00</lastmod>
     <xhtml:link
@@ -661,6 +666,11 @@
                 hreflang="en"
                 href="/pages/data-use-and-analysis/7.3_web_and_interactive_maps/"
                 />
+  </url>
+  
+  <url>
+    <loc>/pages/data-use-and-analysis/7.4-qgis-workflows-for-disaster-mapping/</loc>
+    <lastmod>2020-04-05T10:29:59+03:00</lastmod>
   </url>
   
   <url>
@@ -739,6 +749,7 @@
   
   <url>
     <loc>/pages/</loc>
+    <lastmod>2020-04-05T10:29:59+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
